@@ -155,3 +155,4 @@ for group in order: # ans 값이 작게 나올 수 있는 순서대로 탐색
 
 
 print(ans)
+
